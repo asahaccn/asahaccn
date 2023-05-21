@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Arpan Saha
-- 👀 I’m all thinks security.
-- A CS grad and an experienced IT professional with experience in IT, Product and Security.
-- This account will be dedicated to SOC/Blue Team/Red Team Learnings, Projects and Security tools 101.
+- 👋 Hi, I’m Arpan
+- 👀 Deep interest in Cloud Sec. Professional Security Engineer.
+- A CS grad and an experienced IT professional with experience in IT and Security.
+- This account will be dedicated to Blue Teaming, SIRT, Cloud Security.
 
 
 <!---
