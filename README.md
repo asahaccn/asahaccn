@@ -1,8 +1,5 @@
-- 👋 Hi, I’m Arpan
-- 👀 Deep interest in Cloud Sec. Professional Security Engineer.
-- A CS grad and an experienced IT professional with experience in IT and Security.
-- This account will be dedicated to Blue Teaming, SIRT, Cloud Security.
 
+Security Engineer | SecOps | CSIRT | Cloud Security | Threat Detection & Response | AWS | Azure | CCD | Security+ | BTL1 | eJPT | Splunk ECA | Splunk CCDA | Splunk CSPA | Splunk CSU | AZ - 900 | LPI - Linux | BTJA
 
 <!---
 asahaccn/asahaccn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
