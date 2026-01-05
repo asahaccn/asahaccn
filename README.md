@@ -46,9 +46,9 @@ Hi, I’m a DevOps / Cloud Engineer passionate about automation, reliability, an
 
 ## 📊 GitHub Stats (Optional)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asahaccn&show_icons=true&theme=default)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asahaccn)
 
 ---
 
