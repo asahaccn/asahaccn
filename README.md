@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./banner.png" alt="DevOps Banner" />
+</p>
+
+
 # Welcome to My GitHub! 🚀💻
 
 Hi 👋 
