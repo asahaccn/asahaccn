@@ -1,6 +1,41 @@
+# Welcome to My GitHub! 🚀💻
 
-Arpan Saha ☁️
-Senior Technical Consultant | Cloud | Devops | Security | AWS/Azure | CI/CD | Terraform | Docker | K8 | Splunk | ELK | Observability | LPI - Linux | AZ - 500 | MS/SC/AZ/AI/DP- 900 | Splunk 4x Certified ☁️
+Hi, I’m a DevOps / Cloud Engineer passionate about automation, reliability, and scalable systems.
+
+---
+
+## 🛠 Tools I Work With
+
+![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
+![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes)
+![Terraform](https://img.shields.io/badge/Terraform-purple?logo=terraform)
+![AWS](https://img.shields.io/badge/AWS-orange?logo=amazonaws)
+![Azure](https://img.shields.io/badge/Azure-blue?logo=microsoftazure)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-black?logo=githubactions)
+![Prometheus](https://img.shields.io/badge/Prometheus-orange?logo=prometheus)
+![Grafana](https://img.shields.io/badge/Grafana-orange?logo=grafana)
+
+---
+
+## 🎯 My Motto
+> Automate everything you can, so humans can focus on what truly matters.
+
+---
+
+## 📌 What I’m Working On
+- CI/CD pipelines
+- Infrastructure as Code
+- Cloud automation
+- Reliability & monitoring
+
+---
+
+## 🌍 Connect with Me
+- LinkedIn: https://linkedin.com/in/your-profile  
+- Medium: https://medium.com/@yourname  
+- Blog: https://yourblog.dev
+
 
 
 <!---
