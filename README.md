@@ -1,6 +1,8 @@
 # Welcome to My GitHub! 🚀💻
 
-Hi, I’m a DevOps / Cloud Engineer passionate about automation, reliability, and scalable systems.
+Hi 👋 
+
+I’m a DevOps / Cloud Engineer passionate about automation, reliability, and scalable systems.
 
 ---
 
