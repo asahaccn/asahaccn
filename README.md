@@ -41,7 +41,19 @@ Hi, I’m a DevOps / Cloud Engineer passionate about automation, reliability, an
 - Medium: https://medium.com/@cloudnine9
 - Linktree: https://linktr.ee/asahaccn
 
+---
 
+
+## 📊 GitHub Stats (Optional)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME)
+
+---
+
+⭐ Thanks for stopping by!  
+Feel free to explore my repositories and connect.
 
 <!---
 asahaccn/asahaccn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
